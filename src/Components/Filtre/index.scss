@@ -1,0 +1,22 @@
+.Filtre {
+  button {
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+  }
+  .dropdown {
+    .dropdown-menu {
+      max-height: 200px;
+      max-width: 200px;
+      width: 200px;
+      a {
+        overflow: hidden;
+      }
+    }
+
+    .dropdown-toggle::after {
+      margin-left: 10px;
+      
+    }
+  }
+}

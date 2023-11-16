@@ -1,0 +1,28 @@
+const listeVilles = [
+  "Saint-Denis",
+  "Sainte-Marie",
+  "Sainte-Suzanne",
+  "Saint-Andre",
+  "Bras-Panon",
+  "Saint-Benoit",
+  "Sainte-Rose",
+  "Saint-Philippe",
+  "Saint-Joseph",
+  "Petite-ile",
+  "Saint-Pierre",
+  "Saint-Louis",
+  "Etang-Sale",
+  "Les Avirons",
+  "Saint-Leu",
+  "Les Trois Bassins",
+  "Saint-Paul",
+  "Le Port",
+  "La Possession",
+  "Salazie",
+  "Plaine des Palmistes",
+  "Le Tampon",
+  "Entre-Deux",
+  "Cilaos",
+];
+
+export default listeVilles;
